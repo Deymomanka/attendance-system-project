@@ -1,4 +1,5 @@
-# 顔認証による打刻ツール（Face Recognition Attendance System）
+# 顔認証による打刻ツール
+# Face Recognition Attendance System
 ## プロジェクト概要
 
 本プロジェクトは、Pythonライブラリface_recognitionを用いて、顔認証による出勤・退勤の打刻処理を自動化するPoC（概念実証）ツールです。打刻情報はローカルのSQLiteデータベースに保存され、さらにGoogle SpreadsheetとSlackへの通知連携も可能です。
