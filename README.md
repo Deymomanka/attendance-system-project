@@ -8,12 +8,12 @@
 - **開発環境**: VSCode（MacOS / Windows 両対応）
 - **言語**: Python3
 - **主要ライブラリ・API**:  
-  - `face_recognition`（顔検出・照合）  
-  - `opencv-python`（カメラ映像の取得と表示）  
-  - `sqlite3`（ローカルデータベース管理（出勤/退勤ログ））
-  - `gspread`（Google Spreadsheet API）  
-  - `dotenv`（環境変数管理（APIキーなどの秘匿））
-  - `requests`（Slack Webhook 経由での通知送信）
+  - `face_recognition`：顔検出・照合  
+  - `opencv-python`：カメラ映像の取得と表示 
+  - `sqlite3`：ローカルデータベース管理（出勤/退勤ログ）
+  - `gspread`：Google Spreadsheet API 
+  - `dotenv`：環境変数管理（APIキーなどの秘匿）
+  - `requests`：Slack Webhook 経由での通知送信
 
 ## デモ
 
