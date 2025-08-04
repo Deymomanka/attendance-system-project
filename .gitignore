@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+.idea/
+.vscode/
+logs/*.db
+credentials/*.json
+.env
+key/*.json
+key/attendance-stamp.json
+key/attendance-stamping-61392e9a5c6d.json
+note.txt
