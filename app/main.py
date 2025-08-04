@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 import gspread
 from google.oauth2.service_account import Credentials
 
-from notification import send_slack_notification
+from app.notification import send_slack_notification
 
 
 def save_to_gsheets(data: dict, spreadsheet_name: str, worksheet_name: str):
